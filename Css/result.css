@@ -1,0 +1,27 @@
+#result{
+    display: none;
+    background-color:   skyblue;
+    width: 80%;
+    text-align: center;
+    border-radius: 15px;
+}
+.resultname{
+    font-size: 30px;
+}
+
+.resultDesc{
+ font-size: 25px;
+}
+
+.facebook{
+    color: white;
+    background-color: #3b5998;
+    font-size: 20px;
+    border: 0px;
+    border-radius: 20px;
+}
+.facebook:hover,
+.facebook:focus {
+    background-color: whitesmoke;
+    color: #3b5998;
+}
